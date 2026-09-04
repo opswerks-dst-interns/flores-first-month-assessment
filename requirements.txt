@@ -1,4 +1,9 @@
 pandas
+numpy
 datasets
 pyarrow
 jupyter
+streamlit
+scikit-learn
+plotly
+nltk
